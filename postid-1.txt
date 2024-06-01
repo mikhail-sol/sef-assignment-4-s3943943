@@ -1,0 +1,6 @@
+PostID: 1
+Post Title: Po tr testing123567
+Post Body: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec.
+Post Tags: [java, program, tutorial]
+Post Emergency: Ordinary
+Post Type: Easy
